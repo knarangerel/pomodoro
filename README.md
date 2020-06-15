@@ -7,7 +7,7 @@ This project is a part of [CS50's Mobile App Development with React Native](http
 
 The timer allows users to alternate between 25 minutes of "work" and 5 minutes of "break", and the user can start, stop, and reset the timer.
 
-![screenshot of the app on expo](./assets/screenshot.png)
+![screenshot of the app on expo](./assets/screenshot.png height=500)
 
 ### Future Development
 
