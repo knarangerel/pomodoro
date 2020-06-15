@@ -17,7 +17,7 @@ export default class App extends React.Component {
   }
 
   componentDidMount() {
-    this.interval = setInterval(this.countDown, 1)
+    this.interval = setInterval(this.countDown, 1000)
   }
 
   componentWillUnmount() {
