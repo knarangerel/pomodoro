@@ -1,5 +1,5 @@
 
-# CS50M Project 1 - Pomodoro Timer
+# CS50M - Pomodoro Timer
 
 This project is a part of [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native). You can find the project specifications [here](https://docs.cs50.net/mobile/2020/x/projects/1/project1.html).
 
